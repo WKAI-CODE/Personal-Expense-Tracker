@@ -50,3 +50,17 @@ Each expense contains:
 - Using dictionaries to group expenses
 - Searching and filtering records
 - Handling file and value errors
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main_menu.png)
+
+### View All Expenses
+
+![View All Expenses](screenshots/view_expenses.png)
+
+### Spending by Category
+
+![Spending by Category](screenshots/category_summary.png)
