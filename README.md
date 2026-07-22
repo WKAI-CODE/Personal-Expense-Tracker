@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-A command-line Python application that allows users to record, view, search and analyse personal expenses using CSV file storage.
+A command-line Python application that allows users to record, view, search and analyse personal expenses. The program stores records in a CSV file and includes input validation and error handling.
 
 ## Features
 
